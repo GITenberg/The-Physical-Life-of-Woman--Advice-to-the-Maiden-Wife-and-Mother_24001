@@ -1,0 +1,27 @@
+_repo: The-Physical-Life-of-Woman--Advice-to-the-Maiden-Wife-and-Mother_24001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Napheys, George H. (George Henry)
+    birthdate: 1842
+    deathdate: 1876
+    gutenberg_agent_id: '26156'
+    url: http://www.gutenberg.org/2009/agents/26156
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RG'
+- !lcsh 'Women -- Health and hygiene'
+title: 'The Physical Life of Woman: Advice to the Maiden, Wife and Mother'
+url: http://www.gutenberg.org/ebooks/24001
